@@ -20,3 +20,9 @@ To view the notebook, run `jupyter notebook` from this folder.
 
 You'll need python3, numpy, and matplotlib.
 
+
+
+Humorous aside
+----------------
+
+https://xkcd.com/2300/
