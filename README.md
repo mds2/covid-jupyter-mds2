@@ -4,10 +4,12 @@ More stupid amateur epidemiology.
 
 Everyone is jumping on the bandwagon, so I had to try it out.
 
-I am trying the technique from https://www.youtube.com/watch?v=54XLXg4fYsc but on California County data from the New York Times.
+I am trying the technique from https://www.youtube.com/watch?v=54XLXg4fYsc but on County data from the New York Times.
 
-The notebook has a cell that lets you plug in the name of any other US state instead of California if you want to look at,
-e.g., New York, Georgia, etc.
+Originally I intended to do this only for California counties, but the notebook now has a cell that allows
+you to pick which state you want to look at.
+
+Currently it defaults the Georgia, as Georgia has been in the news a lot.
 
 To fetch the nytimes data try
 
