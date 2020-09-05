@@ -11,8 +11,6 @@ The New York Times publishes their COVID-19 data at https://github.com/nytimes/c
 Originally I intended to do this only for California counties, but the notebook now has a cell that allows
 you to pick which state you want to look at.
 
-Currently it defaults the Georgia, as Georgia has been in the news a lot.
-
 To fetch the nytimes data try
 
 `git submodule update --init`
